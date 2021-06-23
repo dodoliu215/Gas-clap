@@ -139,5 +139,5 @@ function windowResized() {
 }
 
 function goBack(){
-  window.open('main.html','_self'); // 連結至子頁
+  window.open('https://dodoliu215.github.io/Gas-menu/','_self'); // 連結至子頁
  }
